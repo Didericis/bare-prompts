@@ -33,9 +33,27 @@
     "ask",
     "interact"
   ],
+  "imports": {
+    "events": {
+      "bare": "bare-events",
+      "default": "events"
+    },
+    "process": {
+      "bare": "bare-process",
+      "default": "process"
+    },
+    "readline": {
+      "bare": "bare-readline",
+      "default": "readline"
+    }
+  },
   "dependencies": {
+    "bare-events": "^2.3.1",
+    "bare-process": "^2.1.1",
+    "bare-readline": "^1.0.4",
     "kleur": "^4.0.1",
-    "sisteransi": "^1.0.5"
+    "sisteransi": "^1.0.5",
+    "which-runtime": "^1.2.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.17",
