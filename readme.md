@@ -1,3 +1,5 @@
+NB: this is a minimal fork of prompts that runs on [bare](https://github.com/holepunchto/bare). Original repo can be found [here](https://github.com/terkelg/prompts).
+
 <p align="center">
   <img src="https://github.com/terkelg/prompts/raw/master/prompts.png" alt="Prompts" width="500" />
 </p>

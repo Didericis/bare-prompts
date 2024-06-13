@@ -1,9 +1,9 @@
 {
-  "name": "prompts",
+  "name": "bare-prompts",
   "version": "2.4.2",
-  "description": "Lightweight, beautiful and user-friendly prompts",
+  "description": "Lightweight, beautiful and user-friendly prompts (ported to bare)",
   "license": "MIT",
-  "repository": "terkelg/prompts",
+  "repository": "Didericis/bare-prompts",
   "main": "index.js",
   "author": {
     "name": "Terkel Gjervig",
